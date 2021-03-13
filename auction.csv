@@ -1,0 +1,129 @@
+,Name,Role,Country,Status,Base_Price(Lakh),Final_Price(Lakh),Team
+0,Arjun Tendulkar,Bowling Allrounder , India,SOLD,20,20,MI
+1,Akash Singh,Bowler , India,SOLD,20,20,RR
+2,Pawan Negi,Bowling Allrounder , India,SOLD,50,50,KKR
+3,Venkatesh Iyer,Bowler , India,SOLD,20,20,KKR
+4,Hanuma Vihari,Batting Allrounder , India,UNSOLD,100,-,-
+5,Jason Behrendorff,Bowler , Australia,UNSOLD,100,-,-
+6,Gurkeerat Singh Mann,Batsman , India,UNSOLD,50,-,-
+7,Ben Cutting,Bowling Allrounder , Australia,SOLD,75,75,KKR
+8,Rassie van der Dussen,Batsman , South Africa,UNSOLD,50,-,-
+9,Corey Anderson,Batting Allrounder , New Zealand,UNSOLD,75,-,-
+10,Vishnu Solanki,WK-Batsman , India,UNSOLD,20,-,-
+11,Hari Nishanth,Batsman , India,SOLD,20,20,CSK
+12,Harbhajan Singh,Bowler , India,SOLD,200,200,KKR
+13,Mujeeb Ur Rahman,Bowler , Afghanistan,SOLD,100,100,SRH
+14,Sam Billings,WK-Batsman , England,SOLD,200,200,DC
+15,Kedar Jadhav,Batting Allrounder , India,SOLD,200,200,SRH
+16,Karun Nair,Batsman , India,SOLD,50,50,KKR
+17,Saurabh Kumar,Bowling Allrounder , India,SOLD,20,20,PBKS
+18,Pratyush Singh,Bowler , India,UNSOLD,20,-,-
+19,Marco Jansen,Bowling Allrounder , South Africa,SOLD,20,20,MI
+20,Tim David,Batsman , Singapore,UNSOLD,20,-,-
+21,Gerald Coetzee,Bowler , South Africa,UNSOLD,20,-,-
+22,Harsh Tyagi,Batting Allrounder , India,UNSOLD,20,-,-
+23,Jack Wildermuth,Bowling Allrounder , Australia,UNSOLD,50,-,-
+24,Bhagath Verma,Bowling Allrounder , India,SOLD,20,20,CSK
+25,Ajay Dev Goud,Bowler , India,UNSOLD,20,-,-
+26,Yudhvir Singh,Bowler , India,SOLD,20,20,MI
+27,Chaitanya Bishnoi,Batting Allrounder , India,UNSOLD,20,-,-
+28,George Linde,Batting Allrounder , South Africa,UNSOLD,50,-,-
+29,Isuru Udana,Bowling Allrounder , Sri Lanka,UNSOLD,50,-,-
+30,Chris Green,Bowling Allrounder , Australia,UNSOLD,30,-,-
+31,Reece Topley,Bowler , England,UNSOLD,50,-,-
+32,Wayne Parnell,Bowling Allrounder , South Africa,UNSOLD,50,-,-
+33,James Neesham,Batting Allrounder , New Zealand,SOLD,50,50,MI
+34,Scott Kuggeleijn,Batting Allrounder , New Zealand,UNSOLD,50,-,-
+35,Kuldip Yadav,Bowler , India,SOLD,20,20,RR
+36,Simarjeet Singh,Bowler , India,UNSOLD,20,-,-
+37,Harishankar Reddy,Bowler , India,SOLD,20,20,CSK
+38,Josh Inglis,WK-Batsman , Australia,UNSOLD,20,-,-
+39,Srikar Bharat,WK-Batsman , India,SOLD,20,20,RCB
+40,Suyash Prabhudessai,Batsman , India,SOLD,20,20,RCB
+41,Prerak Mankad,Batsman , India,UNSOLD,20,-,-
+42,Tajinder Singh,Batting Allrounder , India,UNSOLD,20,-,-
+43,Siddhesh Lad,Batsman , India,UNSOLD,20,-,-
+44,Sean Abbott,Bowler , Australia,UNSOLD,50,-,-
+45,Matthew Wade,WK-Batsman , Australia,UNSOLD,100,-,-
+46,Ben McDermott,WK-Batsman , Australia,UNSOLD,50,-,-
+47,Thisara Perera,Bowling Allrounder , Sri Lanka,UNSOLD,50,-,-
+48,Liam Livingstone,Batsman , England,SOLD,75,75,RR
+49,Daniel Christian,Bowling Allrounder , Australia,SOLD,75,400,RCB
+50,Fabian Allen,Batting Allrounder , West Indies,SOLD,75,75,PBKS
+51,G Periyaswamy,Bowler , India,UNSOLD,20,-,-
+52,Ben Dwarshuis,Bowler , Australia,UNSOLD,30,-,-
+53,Vaibhav Arora,Bowler , India,SOLD,20,20,KKR
+54,KL Shrijith,WK-Batsman , India,UNSOLD,20,-,-
+55,Utkarsh Singh,Bowler , India,SOLD,20,20,PBKS
+56,Karan Sharma,Batting Allrounder , India,UNSOLD,20,-,-
+57,Jalaj Saxena,Batting Allrounder , India,SOLD,30,30,PBKS
+58,Naveen-ul-Haq,Bowler , Afghanistan,UNSOLD,50,-,-
+59,Mitchell McClenaghan,Bowler , New Zealand,UNSOLD,50,-,-
+60,Billy Stanlake,Bowler , Australia,UNSOLD,100,-,-
+61,Mohit Sharma,Bowler , India,UNSOLD,50,-,-
+62,Oshane Thomas,Bowler , West Indies,UNSOLD,50,-,-
+63,Varun Aaron,Bowler , India,UNSOLD,50,-,-
+64,Moises Henriques,Batting Allrounder , Australia,SOLD,100,400,PBKS
+65,Marnus Labuschagne,Batting Allrounder , Australia,UNSOLD,100,-,-
+66,Tom Curran,Bowling Allrounder , England,SOLD,100,500,DC
+67,Kyle Jamieson,Bowler , New Zealand,SOLD,75,1500,RCB
+68,Martin Guptill,Batsman , New Zealand,UNSOLD,50,-,-
+69,Cheteshwar Pujara,Batsman , India,SOLD,50,50,CSK
+70,Darren Bravo,Batsman , West Indies,UNSOLD,75,-,-
+71,Devon Conway,Batsman , New Zealand,UNSOLD,50,-,-
+72,Shaun Marsh,Batsman , Australia,UNSOLD,100,-,-
+73,Rovman Powell,Batsman , West Indies,UNSOLD,50,-,-
+74,Tejas Baroka,Bowler , India,UNSOLD,20,-,-
+75,Sudhesan Midhun,Bowler , India,UNSOLD,20,-,-
+76,Sandeep Lamichhane,Bowler , Nepal,UNSOLD,40,-,-
+77,KC Cariappa,Bowler , India,SOLD,20,20,RR
+78,Lukman Meriwala,Bowler , India,SOLD,20,20,DC
+79,Jagadeesha Suchith,Bowler , India,SOLD,20,30,SRH
+80,Karanveer Singh,Bowler , India,UNSOLD,20,-,-
+81,Manimaran Siddharth,Bowler , India,SOLD,20,20,DC
+82,Tushar Deshpande,Bowler , India,UNSOLD,20,-,-
+83,Riley Meredith,Bowler , Australia,SOLD,40,800,PBKS
+84,Kuldeep Sen,Bowler , India,UNSOLD,20,-,-
+85,Chetan Sakariya,Bowler , India,SOLD,20,100,RR
+86,Ankit Rajpoot,Bowler , India,UNSOLD,30,-,-
+87,Avi Barot,Batsman , India,UNSOLD,20,-,-
+88,Mohammed Azharuddeen,WK-Batsman , India,SOLD,20,20,RCB
+89,Kedar Devdhar,WK-Batsman , India,UNSOLD,20,-,-
+90,Sheldon Jackson,WK-Batsman , India,SOLD,20,20,KKR
+91,Vishnu Vinod,WK-Batsman , India,SOLD,20,20,DC
+92,Vivek Singh,Batsman , India,UNSOLD,20,-,-
+93,Krishnappa Gowtham,Bowling Allrounder , India,SOLD,20,900,CSK
+94,Ayush Badoni,Bowling Allrounder , India,UNSOLD,20,-,-
+95,Shahrukh Khan,Bowling Allrounder , India,SOLD,20,500,PBKS
+96,Ripal Patel,Bowler , India,SOLD,20,20,DC
+97,Atit Sheth,Bowler , India,UNSOLD,20,-,-
+98,Himmat Singh,Batsman , India,UNSOLD,20,-,-
+99,Rajat Patidar,Batsman , India,SOLD,20,20,RCB
+100,Gahlaut Rahul Singh,Batsman , India,UNSOLD,20,-,-
+101,Sachin Baby,Batsman , India,SOLD,20,20,RCB
+102,Himanshu Rana,Batsman , India,UNSOLD,20,-,-
+103,Mustafizur Rahman,Bowler , Bangladesh,SOLD,100,100,RR
+104,Qais Ahmad,Bowler , Afghanistan,UNSOLD,50,-,-
+105,Piyush Chawla,Bowling Allrounder , India,SOLD,50,200,MI
+106,Ish Sodhi,Bowler , New Zealand,UNSOLD,50,-,-
+107,Rahul Sharma,Bowler , India,UNSOLD,50,-,-
+108,Adil Rashid,Bowler , England,UNSOLD,100,-,-
+109,Sheldon Cottrell,Bowler , West Indies,UNSOLD,100,-,-
+110,Jhye Richardson,Bowling Allrounder , Australia,SOLD,100,1400,PBKS
+111,Umesh Yadav,Bowler , India,SOLD,100,100,DC
+112,Nathan Coulter-Nile,Bowler , Australia,SOLD,100,500,MI
+113,Adam Milne,Bowler , New Zealand,SOLD,50,300,MI
+114,Kusal Perera,WK-Batsman , Sri Lanka,UNSOLD,50,-,-
+115,Alex Carey,WK-Batsman , Australia,UNSOLD,100,-,-
+116,Glenn Phillips,WK-Batsman , New Zealand,UNSOLD,50,-,-
+117,Dawid Malan,Batsman , England,SOLD,100,100,PBKS
+118,Chris Morris,Bowling Allrounder , South Africa,SOLD,75,1600,RR
+119,Shivam Dube,Bowling Allrounder , India,SOLD,50,400,RR
+120,Moeen Ali,Batting Allrounder , England,SOLD,200,700,CSK
+121,Shakib Al Hasan,Batting Allrounder , Bangladesh,SOLD,200,300,KKR
+122,Glenn Maxwell,Batting Allrounder , Australia,SOLD,200,1400,RCB
+123,Aaron Finch,Batsman , Australia,UNSOLD,100,-,-
+124,Evin Lewis,Batsman , West Indies,UNSOLD,100,-,-
+125,Steven Smith,Batsman , Australia,SOLD,200,200,DC
+126,Jason Roy,Batsman , England,UNSOLD,200,-,-
+127,Alex Hales,Batsman , England,UNSOLD,100,-,-
